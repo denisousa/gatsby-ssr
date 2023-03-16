@@ -7,6 +7,19 @@
   Gatsby Minimal Starter
 </h1>
 
+## Tutorial using SSR (Server Side Rendering)
+
+1.  **Run project.**
+    ```shell
+    cd my-gatsby-site/
+    yarn
+    yarn start
+    ```
+
+1.  **Test SSR.**
+    Go to page http://localhost:8000/ssr/.
+    Now, you can disable your JavaScript Browser and see the web components working...
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
